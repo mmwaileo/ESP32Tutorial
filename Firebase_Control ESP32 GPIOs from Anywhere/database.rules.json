@@ -1,0 +1,6 @@
+{
+  "rules": {
+    ".read": "auth.uid === 'eJiBUYoSq1ZOR7sYfs0s6bya8E43'",  // 2023-2-5
+    ".write": "auth.uid === 'eJiBUYoSq1ZOR7sYfs0s6bya8E43'",  // 2023-2-5
+  }
+}
